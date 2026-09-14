@@ -1,0 +1,17 @@
+Create/change files
+       ↓
+git status
+       ↓
+git add .
+       ↓
+Staging area
+       ↓
+git commit
+       ↓
+Local repository
+       ↓
+git push origin main
+       ↓
+GitHub
+
+
