@@ -15,3 +15,15 @@ git push origin main
 GitHub
 
 
+
+
+
+| Concept        | Command/action                        |
+| -------------- | ------------------------------------- |
+| Create branch  | `git branch feature/homepage`         |
+| Switch branch  | `git switch feature/homepage`         |
+| Check branches | `git branch`                          |
+| Commit feature | `git add` → `git commit`              |
+| Push branch    | `git push -u origin feature/homepage` |
+| Create PR      | GitHub UI                             |
+
